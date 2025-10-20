@@ -94,13 +94,13 @@ description = "This is meta description"
 author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
+mapLatitude = "46.1639179074423"
+mapLongitude = "14.701269559794016"
 mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalyticsID = "" # Your ID
 # Contact Information
-mobile = "00386 41 217 023"
+mobile = "00386 xx xxx xxx"
 email = "barbara.jeras@gmail.com"
 location = "Gradisce, Lukovica"
 # copyright
